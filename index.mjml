@@ -3,9 +3,9 @@
   <!-- Styles -->
   <mj-head>
     <mj-attributes>
-      <mj-text color="#232323" line-height="24px"/>
+      <mj-text color="#232323" line-height="24px" />
       <mj-all font-family="Arial" font-size="16px" />
-      <mj-button background-color="#275573" color="#ffffff" font-weight="bold" width="70%" inner-padding="16px 24px"/>
+      <mj-button background-color="#275573" color="#ffffff" font-weight="bold" width="70%" inner-padding="16px 24px" />
 
       <mj-class name="button_facebook" background-color="#29487D" />
       <mj-class name="button_twitter" background-color="#55ACEE" />
@@ -13,8 +13,8 @@
       <mj-class name="button_email" background-color="#777777" />
 
       <mj-class name="h1" color="#005a79" font-size="34px" line-height="51px" />
-      <mj-class name="h2" color="#005a79" font-size="24px" line-height="36px"/>
-      <mj-class name="h3" font-size="18px" font-weight="bold"  line-height="27px"/>
+      <mj-class name="h2" color="#005a79" font-size="24px" line-height="36px" />
+      <mj-class name="h3" font-size="18px" font-weight="bold" line-height="27px" />
     </mj-attributes>
   </mj-head>
   <!-- End of Styles -->
@@ -24,7 +24,7 @@
     <!-- Header -->
     <mj-section background-color="#275573" full-width="full-width">
       <mj-column>
-        <mj-image width="280px" src="https://gallery.mailchimp.com/742651e2cb92ae3a9ca13a3d9/images/d2e3d795-2bd5-41cc-88b2-f9abd73a6d09.png" alt="Traidcraft Exchange logo"></mj-image>
+        <mj-image width="280px" src="https://images.squarespace-cdn.com/content/59242ebc03596e804886c7f4/1510222095559-ICXE869NM44JNKKWKDPJ/TX+Logo+white.png?content-type=image%2Fpng" alt="Traidcraft Exchange logo"></mj-image>
       </mj-column>
     </mj-section>
     <!-- End of Header -->
@@ -35,30 +35,30 @@
 
         <!-- Headers -->
         <mj-text mj-class="h1">
-        Header 1
+          Header 1
         </mj-text>
         <mj-text mj-class="h2">
-        Header 2
+          Header 2
         </mj-text>
         <mj-text mj-class="h3">
-        Header 3
+          Header 3
         </mj-text>
         <!-- End of Headers -->
 
         <!-- Text block -->
         <mj-text>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-       
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
         </mj-text>
         <!-- End of Text block -->
 
-       <!-- Image -->
-        <mj-image src="https://gallery.mailchimp.com/742651e2cb92ae3a9ca13a3d9/images/4bf77567-9203-4eca-a201-11e96964f5b2.png" alt="" />
+        <!-- Image -->
+        <mj-image src="https://images.squarespace-cdn.com/content/v1/59242ebc03596e804886c7f4/1565171480772-H61J5V0JVRVN63TQGFOS/ke17ZwdGBToddI8pDm48kA_Ksi6rUAMcghH-kTXLxH97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UcduKWfxEIyTerzyH-R9k5K2Z-iAV1i-qW9ns5B3Z6BawAmYg09eZ-nMcZEAiM1A6Q/image-asset.jpeg" alt="" />
         <!-- End of Image -->
 
         <!-- Buttons -->
         <mj-button href="#">
-            Email the Prime Minister!
+          Email the Prime Minister!
         </mj-button>
 
         <mj-button mj-class="button_whatsapp" href="#">
@@ -68,11 +68,11 @@
         <mj-button mj-class="button_facebook" href="#">
           Share on Facebook
         </mj-button>
-        
+
         <mj-button mj-class="button_email" href="#">
           Share on Email
         </mj-button>
-        
+
         <mj-button mj-class="button_twitter" href="#">
           Share on Twitter
         </mj-button>
@@ -81,7 +81,7 @@
         <!-- Text block -->
         <mj-text>
 
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
         </mj-text>
         <!-- End of Text block -->
@@ -93,7 +93,7 @@
             <li>Two</li>
             <li>Three</li>
           </ul>
-          </mj-text>
+        </mj-text>
         <!-- End of Bulletpoint list -->
 
         <!-- Numbered list -->
@@ -103,7 +103,7 @@
             <li>Two</li>
             <li>Three</li>
           </ol>
-          </mj-text>
+        </mj-text>
         <!-- End of Numbered list -->
 
       </mj-column>
@@ -111,18 +111,26 @@
     <!-- End of Body -->
 
 
-      <!-- Footer -->
-      <mj-section background-color="#275573" full-width="full-width">
-        <mj-column>
-          <mj-social font-size="15px" icon-size="30px" mode="horizontal">
-            <mj-social-element src="https://cdn-images.mailchimp.com/icons/social-block-v2/outline-light-facebook-48.png" name="facebook" background-color="transparent" href="https://www.facebook.com/TraidcraftExchange/"></mj-social-element>
-            <mj-social-element src="https://cdn-images.mailchimp.com/icons/social-block-v2/outline-light-twitter-48.png" name="twitter" background-color="transparent" href="https://twitter.com/traidcraftexch"></mj-social-element>
-            <mj-social-element src="https://cdn-images.mailchimp.com/icons/social-block-v2/outline-light-link-48.png" name="web" background-color="transparent" href="https://traidcraftexchange.org"></mj-social-element>
-            <mj-social-element src="https://cdn-images.mailchimp.com/icons/social-block-v2/outline-light-instagram-48.png" name="instagram" background-color="transparent" href="https://www.instagram.com/traidcraftexchange/"></mj-social-element>
-        </mj-social>
-        </mj-column>
+    <!-- Footer -->
+    <mj-section background-color="#275573" full-width="full-width">
+      <mj-column background-color="transparent">
+        <mj-image src="https://images.squarespace-cdn.com/content/59242ebc03596e804886c7f4/1579691989967-51SOAXRL598SW0AOHRV7/facebook_do_not_delete.png" width="24px" height="24px" alt="Facebook logo" href="https://www.facebook.com/TraidcraftExchange/" />
+      </mj-column>
+
+      <mj-column background-color="transparent">
+        <mj-image src="https://images.squarespace-cdn.com/content/59242ebc03596e804886c7f4/1579692043836-Y5JT4LE9714U0B6V4J5X/twitter_do_not_delete.png" width="24px" height="24px" alt="Twitter logo" href="https://twitter.com/traidcraftexch" />
+      </mj-column>
+
+      <mj-column background-color="transparent">
+        <mj-image src="https://images.squarespace-cdn.com/content/59242ebc03596e804886c7f4/1579692092914-0LKBBD4XYCWWCIKMBCA7/website_do_not_delete.png" width="24px" height="24px" alt="Website link logo" href="https://traidcraftexchange.org" />
+      </mj-column>
+
+      <mj-column background-color="transparent">
+        <mj-image src="https://images.squarespace-cdn.com/content/59242ebc03596e804886c7f4/1579692023991-2M9GLNQAL2Z2YNTTO5XQ/instagram_do_not_delete.png" width="24px" height="24px" alt="Instagram logo" href="https://www.instagram.com/traidcraftexchange/" />
+      </mj-column>
+
     </mj-section>
     <!-- End of Footer -->
-  
+
   </mj-body>
 </mjml>
