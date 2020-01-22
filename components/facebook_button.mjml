@@ -1,0 +1,10 @@
+<!--
+    A blue button for Share on Facebook buttons
+
+    * Put the share link inside href=""
+ 
+ -->
+
+<mj-button mj-class="button_facebook" href="#">
+    Share on Facebook
+</mj-button>

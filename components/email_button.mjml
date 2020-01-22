@@ -1,0 +1,10 @@
+<!--
+    A grey button, usually for Share by Email buttons
+
+    * Put the mailto: link inside href=""
+
+ -->
+
+<mj-button mj-class="button_email" href="#">
+    Share by Email
+</mj-button>

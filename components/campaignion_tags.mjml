@@ -1,0 +1,14 @@
+<!--
+Common examples of Campaignion tags we use
+-->
+
+<!-- First name -->
+[submission:values:first_name]
+
+
+<!-- Donation interval -->
+[submission:values:amount:donation_interval]
+
+
+<!-- Donation amounts -->
+[submission:values:amount:donation_amount]

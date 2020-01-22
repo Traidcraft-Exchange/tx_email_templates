@@ -1,0 +1,15 @@
+<!--
+    Headers of different sizes
+-->
+
+<mj-text mj-class="h1">
+Header 1
+</mj-text>
+
+<mj-text mj-class="h2">
+Header 2
+</mj-text>
+
+<mj-text mj-class="h3">
+Header 3
+</mj-text>

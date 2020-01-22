@@ -1,0 +1,10 @@
+<!--
+    A standard button with a TX blue background colour
+
+    * Put the link inside href=""
+
+ -->
+
+<mj-button href="#">
+    Take action now!
+</mj-button>

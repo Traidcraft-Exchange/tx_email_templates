@@ -1,0 +1,10 @@
+<!--
+    A light blue button for Share on Twitter buttons
+
+    * Put the share link inside href=""
+
+ -->
+
+<mj-button mj-class="button_twitter" href="#">
+    Share on Twitter
+</mj-button>

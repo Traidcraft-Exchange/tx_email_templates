@@ -1,0 +1,10 @@
+<!--
+    An image
+
+    * Put the link to the image in src=""
+    * Put the alt text for blind people in alt=""
+
+ -->
+
+
+<mj-image src="" alt="" />

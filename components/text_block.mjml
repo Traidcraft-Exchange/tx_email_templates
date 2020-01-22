@@ -1,0 +1,13 @@
+<!-- 
+    A text block
+
+    * Replace the Lorem ipsum with your text
+
+ -->
+
+<mj-text>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+</mj-text>
+<!-- End of Text block -->
