@@ -29,9 +29,10 @@
     </mj-section>
     <!-- End of Header -->
 
-    <!-- Body -->
     <mj-section>
       <mj-column>
+        <!-- Body -->
+
 
         <!-- Headers -->
         <mj-text mj-class="h1">
@@ -106,9 +107,11 @@
         </mj-text>
         <!-- End of Numbered list -->
 
+
+
+        <!-- End of Body -->
       </mj-column>
     </mj-section>
-    <!-- End of Body -->
 
 
     <!-- Footer -->
