@@ -11,6 +11,10 @@ You can copy and paste MJML into [https://mjml.io/try-it-live](https://mjml.io/t
 
 HTML of the MJML files are in the [compiled folder](/compiled)
 
+## Real examples
+
+HTML of the real examples of emails we've used in Campaignion are in the [examples folder](/examples)
+
 ## Instructions
 
 To compiled an MJML file to HTML:

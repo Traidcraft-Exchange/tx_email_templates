@@ -16,6 +16,9 @@
       <mj-class name="h2" color="#005a79" font-size="24px" line-height="36px" />
       <mj-class name="h3" font-size="18px" font-weight="bold" line-height="27px" />
     </mj-attributes>
+
+    <mj-preview>A message from Traidcraft Exchange</mj-preview>
+
   </mj-head>
   <!-- End of Styles -->
 
@@ -24,7 +27,7 @@
     <!-- Header -->
     <mj-section background-color="#275573" full-width="full-width">
       <mj-column>
-        <mj-image width="280px" src="https://images.squarespace-cdn.com/content/59242ebc03596e804886c7f4/1510222095559-ICXE869NM44JNKKWKDPJ/TX+Logo+white.png?content-type=image%2Fpng" alt="Traidcraft Exchange logo"></mj-image>
+        <mj-image width="280px" src="https://images.squarespace-cdn.com/content/59242ebc03596e804886c7f4/1510222095559-ICXE869NM44JNKKWKDPJ/TX+Logo+white.png?content-type=image%2Fpng" alt="Traidcraft Exchange"></mj-image>
       </mj-column>
     </mj-section>
     <!-- End of Header -->
@@ -118,19 +121,19 @@
     <mj-section background-color="#275573" full-width="full-width">
       <mj-group>
         <mj-column background-color="transparent">
-          <mj-image src="https://images.squarespace-cdn.com/content/59242ebc03596e804886c7f4/1579691989967-51SOAXRL598SW0AOHRV7/facebook_do_not_delete.png" width="24px" height="24px" alt="Facebook logo" href="https://www.facebook.com/TraidcraftExchange/" />
+          <mj-image src="https://images.squarespace-cdn.com/content/59242ebc03596e804886c7f4/1579691989967-51SOAXRL598SW0AOHRV7/facebook_do_not_delete.png" width="24px" height="24px" alt="Facebook" href="https://www.facebook.com/TraidcraftExchange/" />
         </mj-column>
 
         <mj-column background-color="transparent">
-          <mj-image src="https://images.squarespace-cdn.com/content/59242ebc03596e804886c7f4/1579692043836-Y5JT4LE9714U0B6V4J5X/twitter_do_not_delete.png" width="24px" height="24px" alt="Twitter logo" href="https://twitter.com/traidcraftexch" />
+          <mj-image src="https://images.squarespace-cdn.com/content/59242ebc03596e804886c7f4/1579692043836-Y5JT4LE9714U0B6V4J5X/twitter_do_not_delete.png" width="24px" height="24px" alt="Twitter" href="https://twitter.com/traidcraftexch" />
         </mj-column>
 
         <mj-column background-color="transparent">
-          <mj-image src="https://images.squarespace-cdn.com/content/59242ebc03596e804886c7f4/1579692092914-0LKBBD4XYCWWCIKMBCA7/website_do_not_delete.png" width="24px" height="24px" alt="Website link logo" href="https://traidcraftexchange.org" />
+          <mj-image src="https://images.squarespace-cdn.com/content/59242ebc03596e804886c7f4/1579692092914-0LKBBD4XYCWWCIKMBCA7/website_do_not_delete.png" width="24px" height="24px" alt="Website" href="https://traidcraftexchange.org" />
         </mj-column>
 
         <mj-column background-color="transparent">
-          <mj-image src="https://images.squarespace-cdn.com/content/59242ebc03596e804886c7f4/1579692023991-2M9GLNQAL2Z2YNTTO5XQ/instagram_do_not_delete.png" width="24px" height="24px" alt="Instagram logo" href="https://www.instagram.com/traidcraftexchange/" />
+          <mj-image src="https://images.squarespace-cdn.com/content/59242ebc03596e804886c7f4/1579692023991-2M9GLNQAL2Z2YNTTO5XQ/instagram_do_not_delete.png" width="24px" height="24px" alt="Instagram" href="https://www.instagram.com/traidcraftexchange/" />
         </mj-column>
       </mj-group>
     </mj-section>
