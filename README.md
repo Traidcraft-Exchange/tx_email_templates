@@ -19,7 +19,7 @@ HTML of the real examples of emails we've used in Campaignion are in the [exampl
 
 To compiled an MJML file to HTML:
 
-1. Install MJML `yarn global add mjml`
-2. Run `mjml index.mjml -o compiled/index.html`
+1. Install MJML `yarn add mjml`
+2. Run `./node_modules/.bin/mjml index.mjml -o compiled/index.html`
 
 You can also copy and paste MJML into [https://mjml.io/try-it-live](https://mjml.io/try-it-live) to generate HTML

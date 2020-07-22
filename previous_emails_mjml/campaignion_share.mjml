@@ -15,17 +15,20 @@
       <mj-all font-family="Arial" font-size="16px" />
       <mj-button background-color="#275573" color="#ffffff" font-weight="bold" width="70%" inner-padding="16px 24px" />
 
+
+
       <mj-class name="button_facebook" background-color="#29487D" />
       <mj-class name="button_twitter" background-color="#55ACEE" />
       <mj-class name="button_whatsapp" background-color="#4FCE5D" />
       <mj-class name="button_email" background-color="#777777" />
 
-      <mj-class name="h1" color="#005a79" font-size="34px" line-height="51px" />
+      <mj-class name="h1" color="#005a79" font-size="34px" line-height="41px" />
       <mj-class name="h2" color="#005a79" font-size="24px" line-height="36px" />
       <mj-class name="h3" font-size="18px" font-weight="bold" line-height="27px" />
     </mj-attributes>
 
-    <mj-preview>A message from Traidcraft Exchange</mj-preview>
+
+    <mj-preview>What you can do next</mj-preview>
 
   </mj-head>
   <!-- End of Styles -->
@@ -35,7 +38,7 @@
     <!-- Header -->
     <mj-section background-color="#275573" full-width="full-width">
       <mj-column>
-        <mj-image width="280px" src="https://images.squarespace-cdn.com/content/59242ebc03596e804886c7f4/1510222095559-ICXE869NM44JNKKWKDPJ/TX+Logo+white.png?content-type=image%2Fpng" alt="Traidcraft Exchange"></mj-image>
+        <mj-image width="280px" src="https://images.squarespace-cdn.com/content/59242ebc03596e804886c7f4/1510222095559-ICXE869NM44JNKKWKDPJ/TX+Logo+white.png?content-type=image%2Fpng" alt="Traidcraft Exchange logo"></mj-image>
       </mj-column>
     </mj-section>
     <!-- End of Header -->
@@ -44,7 +47,40 @@
       <mj-column>
         <!-- Body -->
 
-        <!-- Put content here -->
+
+        <mj-text mj-class="h1">
+          Thanks for standing up for homeworkers
+        </mj-text>
+
+
+        <mj-text>
+          Dear [submission:values:first_name],
+        </mj-text>
+
+        <mj-text>
+          Thank you so much for adding your name to say you're on the side of homeworkers.
+        </mj-text>
+
+        <mj-text>
+          You can learn a bit more about homeworkers in this 1 minute video.
+        </mj-text>
+        <mj-image src="https://hiddenhomeworkersvideostill.com" alt="A still image from a video about Hidden Homeworkers" />
+
+        <mj-button href="#">
+          Watch the video
+        </mj-button>
+
+
+
+        <mj-text>
+          And if you like the video, why not share it with someone you think would like it too?
+        </mj-text>
+
+        <mj-text>
+          Thanks very much,
+          <br>
+          Ed and the Traidcraft Exchange team
+        </mj-text>
 
 
         <!-- End of Body -->
@@ -78,8 +114,8 @@
 
     </mj-section>
 
-    <mj-section background-color="#275573">
-      <mj-column width="100%">
+    <mj-section background-color="#275573" full-width="full-width">
+      <mj-column>
         <mj-divider border-width="1px" border-color="#ffffff" />
 
         <mj-text color="#ffffff" font-size="12px" line-height="14.4px" align="center">

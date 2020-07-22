@@ -2,6 +2,14 @@
 
   <!-- Styles -->
   <mj-head>
+
+    <mj-style inline="inline">
+      a {
+        color: #275573;
+        font-weight: bold;
+      }
+    </mj-style>
+
     <mj-attributes>
       <mj-text color="#232323" line-height="24px" />
       <mj-all font-family="Arial" font-size="16px" />
@@ -27,12 +35,12 @@
     <!-- Header -->
     <mj-section background-color="#275573" full-width="full-width">
       <mj-column>
-        <mj-image width="280px" src="https://images.squarespace-cdn.com/content/59242ebc03596e804886c7f4/1510222095559-ICXE869NM44JNKKWKDPJ/TX+Logo+white.png?content-type=image%2Fpng" alt="Traidcraft Exchange"></mj-image>
+        <mj-image width="280px" src="https://images.squarespace-cdn.com/content/59242ebc03596e804886c7f4/1510222095559-ICXE869NM44JNKKWKDPJ/TX+Logo+white.png?content-type=image%2Fpng" alt="Traidcraft Exchange logo"></mj-image>
       </mj-column>
     </mj-section>
     <!-- End of Header -->
 
-    <mj-section>
+    <mj-section background-color="#ffffff">
       <mj-column>
         <!-- Body -->
 
@@ -51,7 +59,7 @@
 
         <!-- Text block -->
         <mj-text>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <a href="https://alink.com">This is a link</a>
 
         </mj-text>
         <!-- End of Text block -->
@@ -118,7 +126,13 @@
 
 
     <!-- Footer -->
-    <mj-section background-color="#275573" full-width="full-width">
+    <mj-section background-color="#275573" full-width="full-width" padding-bottom="0px">
+      <mj-column width="100%" padding-bottom="26px">
+        <mj-text color="#ffffff" align="center" font-size="26px">
+          Follow us on social media
+        </mj-text>
+      </mj-column>
+
       <mj-group>
         <mj-column background-color="transparent">
           <mj-image src="https://images.squarespace-cdn.com/content/59242ebc03596e804886c7f4/1579691989967-51SOAXRL598SW0AOHRV7/facebook_do_not_delete.png" width="24px" height="24px" alt="Facebook" href="https://www.facebook.com/TraidcraftExchange/" />
@@ -128,14 +142,24 @@
           <mj-image src="https://images.squarespace-cdn.com/content/59242ebc03596e804886c7f4/1579692043836-Y5JT4LE9714U0B6V4J5X/twitter_do_not_delete.png" width="24px" height="24px" alt="Twitter" href="https://twitter.com/traidcraftexch" />
         </mj-column>
 
-        <mj-column background-color="transparent">
-          <mj-image src="https://images.squarespace-cdn.com/content/59242ebc03596e804886c7f4/1579692092914-0LKBBD4XYCWWCIKMBCA7/website_do_not_delete.png" width="24px" height="24px" alt="Website" href="https://traidcraftexchange.org" />
-        </mj-column>
+
 
         <mj-column background-color="transparent">
           <mj-image src="https://images.squarespace-cdn.com/content/59242ebc03596e804886c7f4/1579692023991-2M9GLNQAL2Z2YNTTO5XQ/instagram_do_not_delete.png" width="24px" height="24px" alt="Instagram" href="https://www.instagram.com/traidcraftexchange/" />
         </mj-column>
       </mj-group>
+
+    </mj-section>
+
+    <mj-section background-color="#275573">
+      <mj-column width="100%">
+        <mj-divider border-width="1px" border-color="#ffffff" />
+
+        <mj-text color="#ffffff" font-size="12px" line-height="14.4px" align="center">
+          Copyright © 2020 Traidcraft Exchange, All rights reserved.<br><br>
+          Thanks for reading this email. You have received it as an automatic email to confirm you have taken the campaign action. If you chose not to receive emails from us, you won't receive any further emails.
+        </mj-text>
+      </mj-column>
     </mj-section>
     <!-- End of Footer -->
 
