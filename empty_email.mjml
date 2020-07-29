@@ -78,7 +78,7 @@
 
     </mj-section>
 
-    <mj-section background-color="#275573">
+    <mj-section background-color="#275573" full-width="full-width">
       <mj-column width="100%">
         <mj-divider border-width="1px" border-color="#ffffff" />
 
